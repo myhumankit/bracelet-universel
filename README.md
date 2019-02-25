@@ -1,7 +1,9 @@
 # Bracelet universel
 Un bracelet pour les gouverner tous !
 
-![featured_image](images/mhk_logotype.png)
+Autonome (sur batterie), connecté (UART, wifi, bluetooth), le dispositif repose sur un capteur de distance infrarouge à bas coût qui mesure la déformation du bras lors de la contraction des muscles.
+
+![featured_image](images/bracelet-universel.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/bracelet-universel)
