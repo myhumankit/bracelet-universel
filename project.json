@@ -32,6 +32,11 @@
         ],
         "contributors": [
             {
+                "full_name": "Nicolas Huchet",
+                "email": "nico@myhumankit.org",
+                "role": "Porteur de projet"
+            },
+            {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",
                 "github_username": "jlebunetel",
