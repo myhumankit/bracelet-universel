@@ -17,5 +17,5 @@ void loop() {
   Serial.println(analogRead(analogPin));
   
   // on temporise un peu
-  delay(20);
+  delay(10);
 }
