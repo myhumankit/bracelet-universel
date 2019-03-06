@@ -1,3 +1,6 @@
+![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 # Bracelet universel
 Un bracelet pour les gouverner tous !
 
