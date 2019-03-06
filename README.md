@@ -1,7 +1,7 @@
+# Bracelet universel
 ![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
 ![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
 
-# Bracelet universel
 Un bracelet pour les gouverner tous !
 
 Autonome (sur batterie), connecté (UART, wifi, bluetooth), le dispositif repose sur un capteur de distance infrarouge à bas coût qui mesure la déformation du bras lors de la contraction des muscles.
