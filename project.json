@@ -79,7 +79,15 @@
             {
                 "title": "Assemblage du bracelet",
                 "duration": 300,
-                "content": ""
+                "content": "",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "Adafruit_HUZZAH32",
+                            "quantity": 1
+                        }
+                    }
+                ]
             },
             {
                 "title": "Flashage du firmware",
