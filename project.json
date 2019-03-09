@@ -51,7 +51,14 @@
             {
                 "title": "Mesures du diamètre idéal du bracelet",
                 "duration": 300,
-                "content": ""
+                "content": "",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "pied_a_coulisse"
+                        }
+                    }
+                ]
             },
             {
                 "title": "Modélisation du support",
