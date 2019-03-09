@@ -4,180 +4,100 @@
         "slug": "bracelet-universel",
         "short_description": "Un bracelet pour les gouverner tous !",
         "lang": "fr",
+        "license": "CC BY",
+        "about": "Quelques mots sur le projet : le contexte, son histoire, etc. ...",
         "featured_image": {
-            "url": "images/proto1.jpg"
+            "image": {
+                "url": "images/proto1.jpg",
+                "caption": "Le bracelet universel"
+            }
         },
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/bracelet-universel/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Bracelet_universel",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
             {
                 "url": "https://framateam.org/myhumankit/channels/bracelet-universel",
-                "title": "canal de discussion sur Framateam",
+                "text": "canal de discussion sur Framateam",
                 "fa5_icon": "fas fa-comments"
             },
             {
                 "url": "https://github.com/myhumankit/bracelet-universel",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Nicolas Huchet",
-                "email": "nico@myhumankit.org",
-                "role": "Porteur de projet"
+                "role": "Porteur de projet",
+                "email": "nico@myhumankit.org"
             },
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
             }
         ],
-        "about": {
-
-        },
         "steps": [
             {
                 "title": "Mesures du diamètre idéal du bracelet",
-                "content": "Description de l'étape ...",
-                "duration": 0.25,
-                "tools": [
-                    {
-                        "name": "pied à coulisse"
-                    }
-                ]
+                "duration": 300,
+                "content": ""
             },
             {
                 "title": "Modélisation du support",
-                "content": "Description de l'étape ...",
-                "duration": 0.25,
-                "files": [
+                "duration": 300,
+                "content": "",
+                "inputs": [
                     {
-                        "name": "modèle 3D du support",
-                        "url": "models/support.stl"
-                    }
-                ],
-                "tools": [
-                    {
-                        "name": "FreeCAD"
+                        "file": {
+                            "name": "modèle 3D du support",
+                            "url": "models/support.stl"
+                        }
                     }
                 ]
             },
             {
                 "title": "Impression du support",
-                "content": "Description de l'étape ...",
-                "duration": 2.0,
-                "components": [
-                    {
-                        "name": "PLA",
-                        "quantity": 6
-                    }
-                ],
-                "tools": [
-                    {
-                        "name": "imprimante 3D"
-                    }
-                ]
+                "duration": 1800,
+                "content": ""
             },
             {
                 "title": "Soudure des composants sur le shield",
-                "content": "Description de l'étape ...",
-                "duration": 0.5,
-                "components": [
-                    {
-                        "name": "soudure",
-                        "quantity": 1
-                    },
-                    {
-                        "name": "FeatherWing Proto",
-                        "quantity": 1
-                    },
-                    {
-                        "name": "bouton poussoir",
-                        "quantity": 1
-                    },
-                    {
-                        "name": "LED verte",
-                        "quantity": 1
-                    },
-                    {
-                        "name": "switch",
-                        "quantity": 1
-                    },
-                    {
-                        "name": "fil de prototypage",
-                        "quantity": 5
-                    },
-                    {
-                        "name": "broches à souder",
-                        "quantity": 50
-                    }
-                ],
-                "tools": [
-                    {
-                        "name": "fer à souder"
-                    }
-                ]
+                "duration": 300,
+                "content": ""
             },
             {
                 "title": "Assemblage du bracelet",
-                "content": "Description de l'étape ...",
-                "duration": 0.25,
-                "components": [
-                    {
-                        "name": "bande velcro",
-                        "quantity": 20.0
-                    },
-                    {
-                        "name": "ruban adhésif double face",
-                        "quantity": 2.0
-                    },
-                    {
-                        "name": "Adafruit_HUZZAH32",
-                        "quantity": 1
-                    }
-                ]
+                "duration": 300,
+                "content": ""
             },
             {
                 "title": "Flashage du firmware",
-                "content": "Description de l'étape ...",
-                "duration": 0.25,
-                "components": [
+                "duration": 300,
+                "content": "",
+                "inputs": [
                     {
-                        "name": "câble USB Micro-B",
-                        "quantity": 1
-                    }
-                ],
-                "files": [
-                    {
-                        "name": "programme de test",
-                        "url": "code/test_detection.ino"
-                    }
-                ],
-                "tools": [
-                    {
-                        "name": "Arduino Software (IDE)"
+                        "file": {
+                            "name": "programme de test",
+                            "url": "code/test_detection.ino"
+                        }
                     }
                 ]
             },
             {
                 "title": "Test du bracelet",
-                "content": "Description de l'étape ...",
-                "duration": 0.25,
-                "tools": [
-                    {
-                        "name": "Arduino Software (IDE)"
-                    }
-                ]
+                "duration": 300,
+                "content": ""
             }
         ]
     }
