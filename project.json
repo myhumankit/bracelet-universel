@@ -89,7 +89,7 @@
                     {
                         "file": {
                             "name": "programme de test",
-                            "url": "code/test_detection.ino"
+                            "url": "code/test_detection/test_detection.ino"
                         }
                     }
                 ]
