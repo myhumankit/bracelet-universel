@@ -55,7 +55,9 @@
                 "inputs": [
                     {
                         "tool": {
-                            "slug": "pied_a_coulisse"
+                            "slug": "pied-a-coulisse",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
                         }
                     }
                 ]
@@ -70,18 +72,43 @@
                             "name": "modèle 3D du support",
                             "url": "models/support.stl"
                         }
+                    },
+                    {
+                        "tool": {
+                            "slug": "FreeCAD",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
                     }
                 ]
             },
             {
                 "title": "Impression du support",
                 "duration": 1800,
-                "content": ""
+                "content": "",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "imprimante-3d",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
+                    }
+                ]
             },
             {
                 "title": "Soudure des composants sur le shield",
                 "duration": 300,
-                "content": ""
+                "content": "",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "fer-a-souder",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
+                    }
+                ]
             },
             {
                 "title": "Assemblage du bracelet",
@@ -106,13 +133,29 @@
                             "name": "programme de test",
                             "url": "code/test_detection/test_detection.ino"
                         }
+                    },
+                    {
+                        "tool": {
+                            "slug": "Arduino-IDE",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
                     }
                 ]
             },
             {
                 "title": "Test du bracelet",
                 "duration": 300,
-                "content": ""
+                "content": "",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "Arduino-IDE",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
+                    }
+                ]
             }
         ]
     }
