@@ -6,12 +6,14 @@
         "lang": "fr",
         "license": "CC BY",
         "about": "Quelques mots sur le projet : le contexte, son histoire, etc. ...",
-        "featured_image": {
-            "image": {
-                "url": "images/proto1.jpg",
-                "caption": "Le bracelet universel"
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/proto1.jpg",
+                    "caption": "Le bracelet universel"
+                }
             }
-        },
+        ],
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/bracelet-universel/",
