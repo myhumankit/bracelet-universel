@@ -95,6 +95,14 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-tools"
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "filament-PLA",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
                     }
                 ]
             },
