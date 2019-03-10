@@ -5,7 +5,7 @@
         "short_description": "Un bracelet pour les gouverner tous !",
         "lang": "fr",
         "license": "CC BY",
-        "about": "Quelques mots sur le projet : le contexte, son histoire, etc. ...",
+        "about": "Autonome (sur batterie), connecté (UART, wifi, bluetooth), le dispositif repose sur un capteur de distance infrarouge à bas coût qui mesure la déformation du bras lors de la contraction des muscles.",
         "featured_images": [
             {
                 "image": {
