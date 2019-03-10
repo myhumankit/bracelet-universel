@@ -117,14 +117,6 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-tools"
                         }
-                    },
-                    {
-                        "component": {
-                            "slug": "Adafruit-FeatherWing-Proto",
-                            "quantity": 1,
-                            "github_organization": "myhumankit",
-                            "github_repository": "myworkshop-humanlab-components"
-                        }
                     }
                 ]
             },
@@ -135,8 +127,10 @@
                 "inputs": [
                     {
                         "component": {
-                            "slug": "Adafruit_HUZZAH32",
-                            "quantity": 1
+                            "slug": "Adafruit-HUZZAH32",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
                         }
                     }
                 ]
