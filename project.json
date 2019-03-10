@@ -99,7 +99,7 @@
                     {
                         "component": {
                             "slug": "filament-PLA",
-                            "quantity": 1,
+                            "quantity": 50,
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-components"
                         }
