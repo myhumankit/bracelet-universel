@@ -165,6 +165,14 @@
                             "github_repository": "myworkshop-humanlab-components"
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/proto1.jpg",
+                            "caption": "Assemblage du bracelet"
+                        }
+                    }
                 ]
             },
             {
