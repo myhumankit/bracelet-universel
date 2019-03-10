@@ -125,6 +125,30 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-components"
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "led-3-mm",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bouton-poussoir-miniature",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "fil-de-cablage-monobrin-0.2",
+                            "quantity": 0.1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
                     }
                 ]
             },
