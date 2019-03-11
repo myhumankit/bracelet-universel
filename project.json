@@ -149,6 +149,14 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-components"
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
                     }
                 ]
             },
